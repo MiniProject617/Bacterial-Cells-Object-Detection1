@@ -30,6 +30,8 @@ This code is based on TensorFlow's notebook and model. It trains the model using
 
 This code saves the trained model for future using.
 
+We chose to use the Faster-R-CNN model.
+
 Data needed:
 
 - Three folders for train, validation and test data.
