@@ -60,6 +60,8 @@ Data needed:
 
 We created coco.json files by [RoboFlow website](https://roboflow.com/)
 
+[Trained Model](https://drive.google.com/drive/folders/1Aqk-f3SOo575UQ6ZuEfLRnLn9jucRJ2j?usp=sharing)
+
 ## Support and Feedback:
 
 Support, bug reports and feedback are welcome:
