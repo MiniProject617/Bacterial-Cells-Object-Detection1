@@ -1,6 +1,6 @@
 # Bacterial-Cells-Object-Detection
 
-This is a project for bacterial cell identification in JPG images.
+Identification of bacterial cells in images, under normal and acidic conditions.
 
 ## Installation
 
