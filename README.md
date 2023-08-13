@@ -12,7 +12,7 @@ Install "tensorflow" and "tf-models-official":
 
 ## Usage
 
-There are 4 Google Colab python notbooks:
+There are 4 Google Colab python code notebooks:
 
 1. Augmentation_csv.ipyng
 
